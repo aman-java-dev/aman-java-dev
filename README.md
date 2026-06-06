@@ -38,10 +38,6 @@ pagination, filtering, and full Swagger documentation. Live on Railway.
 **Stack:** Spring Boot • Spring Security • JWT • Hibernate • Swagger
 [GitHub](https://github.com/aman-java-dev/expense-manager) • [Live API](https://expense-manager-production-b6c9.up.railway.app/swagger-ui.html)
 
-## 📊 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-java-dev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-java-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🤝 Connect With Me
 
